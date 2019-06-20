@@ -1,0 +1,818 @@
+\begin{thebibliography}{98}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Inproceedings
+\bibitem[{Agustsson 等(2017)Agustsson, Mentzer, Tschannen, Cavigelli, Timofte,
+  Benini 和~ Gool}]{nipsq72}
+\bibinfo{author}{Agustsson, E.}, \bibinfo{author}{Mentzer, F.},
+  \bibinfo{author}{Tschannen, M.}, \bibinfo{author}{Cavigelli, L.},
+  \bibinfo{author}{Timofte, R.}, \bibinfo{author}{Benini, L.},
+  \bibinfo{author}{Gool, L.J.V.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Soft-to-hard vector quantization for end-to-end
+  learning compressible representations}, in: \bibinfo{booktitle}{Advances in
+  Neural Information Processing Systems 30: Annual Conference on Neural
+  Information Processing Systems 2017, 4-9 December 2017, Long Beach, CA,
+  {USA}}, pp. \bibinfo{pages}{1141--1151}.
+%Type = Article
+\bibitem[{Anwar 和~ Sung(2016)}]{coarse}
+\bibinfo{author}{Anwar, S.}, \bibinfo{author}{Sung, W.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Compact deep convolutional neural networks with
+  coarse pruning.}
+\newblock \bibinfo{journal}{arXiv: Learning} .
+%Type = Article
+\bibitem[{Baker 等(2017)Baker, Gupta, Naik 和~ Raskar}]{cvprq73}
+\bibinfo{author}{Baker, B.}, \bibinfo{author}{Gupta, O.},
+  \bibinfo{author}{Naik, N.}, \bibinfo{author}{Raskar, R.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Designing neural network architectures using
+  reinforcement learning}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Article
+\bibitem[{Bolukbasi 等(2017)Bolukbasi, Wang, Dekel 和~ Saligrama}]{icmlq73}
+\bibinfo{author}{Bolukbasi, T.}, \bibinfo{author}{Wang, J.},
+  \bibinfo{author}{Dekel, O.}, \bibinfo{author}{Saligrama, V.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Adaptive neural networks for fast test-time
+  prediction}.
+\newblock \bibinfo{journal}{CoRR} \bibinfo{volume}{abs/1702.07811}.
+\newblock \eprint{1702.07811}.
+%Type = Article
+\bibitem[{Cai 等(2017)Cai, He, Sun 和~ Vasconcelos}]{hwgqnet}
+\bibinfo{author}{Cai, Z.}, \bibinfo{author}{He, X.}, \bibinfo{author}{Sun, J.},
+  \bibinfo{author}{Vasconcelos, N.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Deep learning with low precision by half-wave
+  gaussian quantization}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{5406--5414}.
+%Type = Inproceedings
+\bibitem[{Chen 等(2018)Chen, Tung, Vedula 和~ Mori}]{eccvq89}
+\bibinfo{author}{Chen, C.}, \bibinfo{author}{Tung, F.},
+  \bibinfo{author}{Vedula, N.}, \bibinfo{author}{Mori, G.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Constraint-aware deep neural network compression},
+  in: \bibinfo{booktitle}{Computer Vision - {ECCV} 2018 - 15th European
+  Conference, Munich, Germany, September 8-14, 2018, Proceedings, Part {VIII}},
+  pp. \bibinfo{pages}{409--424}.
+%Type = Article
+\bibitem[{Chen 等(2015)Chen, Wilson, Tyree, Weinberger 和~
+  Chen}]{earlycompression1}
+\bibinfo{author}{Chen, W.}, \bibinfo{author}{Wilson, J.T.},
+  \bibinfo{author}{Tyree, S.}, \bibinfo{author}{Weinberger, K.Q.},
+  \bibinfo{author}{Chen, Y.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Compressing neural networks with the hashing trick}.
+\newblock \bibinfo{journal}{international conference on machine learning} ,
+  \bibinfo{pages}{2285--2294}.
+%Type = Inproceedings
+\bibitem[{Cho 和~ Brand(2017)}]{mec}
+\bibinfo{author}{Cho, M.}, \bibinfo{author}{Brand, D.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{MEC:} memory-efficient convolution for deep neural
+  network}, in: \bibinfo{booktitle}{Proceedings of the 34th International
+  Conference on Machine Learning, {ICML} 2017, Sydney, NSW, Australia, 6-11
+  August 2017}, pp. \bibinfo{pages}{815--824}.
+%Type = Article
+\bibitem[{Courbariaux 等(2014)Courbariaux, Bengio 和~ David}]{2014low}
+\bibinfo{author}{Courbariaux, M.}, \bibinfo{author}{Bengio, Y.},
+  \bibinfo{author}{David, J.P.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Low precision storage for deep learning} .
+%Type = Article
+\bibitem[{Courbariaux 等(2015)Courbariaux, Bengio 和~ David}]{binary1}
+\bibinfo{author}{Courbariaux, M.}, \bibinfo{author}{Bengio, Y.},
+  \bibinfo{author}{David, J.P.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Binaryconnect: training deep neural networks with
+  binary weights during propagations}.
+\newblock \bibinfo{journal}{neural information processing systems} ,
+  \bibinfo{pages}{3123--3131}.
+%Type = Article
+\bibitem[{Courbariaux 等(2016)Courbariaux, Hubara, Soudry, Elyaniv 和~
+  Bengio}]{binary}
+\bibinfo{author}{Courbariaux, M.}, \bibinfo{author}{Hubara, I.},
+  \bibinfo{author}{Soudry, D.}, \bibinfo{author}{Elyaniv, R.},
+  \bibinfo{author}{Bengio, Y.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Binarized neural networks: Training deep neural
+  networks with weights and activations constrained to +1 or -1}.
+\newblock \bibinfo{journal}{arXiv: Learning} .
+%Type = Inproceedings
+\bibitem[{Dai 等(2018)Dai, Zhu, Guo 和~ Wipf}]{icmlq81}
+\bibinfo{author}{Dai, B.}, \bibinfo{author}{Zhu, C.}, \bibinfo{author}{Guo,
+  B.}, \bibinfo{author}{Wipf, D.P.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Compressing neural networks using the variational
+  information bottleneck}, in: \bibinfo{booktitle}{Proceedings of the 35th
+  International Conference on Machine Learning, {ICML} 2018,
+  Stockholmsm{\"{a}}ssan, Stockholm, Sweden, July 10-15, 2018}, pp.
+  \bibinfo{pages}{1143--1152}.
+%Type = Article
+\bibitem[{Denil 等(2013)Denil, Shakibi, Dinh, Ranzato 和~
+  De~Freitas}]{predicting}
+\bibinfo{author}{Denil, M.}, \bibinfo{author}{Shakibi, B.},
+  \bibinfo{author}{Dinh, L.}, \bibinfo{author}{Ranzato, M.},
+  \bibinfo{author}{De~Freitas, N.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Predicting parameters in deep learning}.
+\newblock \bibinfo{journal}{neural information processing systems} ,
+  \bibinfo{pages}{2148--2156}.
+%Type = Inproceedings
+\bibitem[{Dubey 等(2018)Dubey, Chatterjee 和~ Ahuja}]{eccvq84}
+\bibinfo{author}{Dubey, A.}, \bibinfo{author}{Chatterjee, M.},
+  \bibinfo{author}{Ahuja, N.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Coreset-based neural network compression}, in:
+  \bibinfo{booktitle}{Computer Vision - {ECCV} 2018 - 15th European Conference,
+  Munich, Germany, September 8-14, 2018, Proceedings, Part {VII}}, pp.
+  \bibinfo{pages}{469--486}.
+%Type = Inproceedings
+\bibitem[{Faraone 等(2018)Faraone, Fraser, Blott 和~ Leong}]{cvprq84}
+\bibinfo{author}{Faraone, J.}, \bibinfo{author}{Fraser, N.J.},
+  \bibinfo{author}{Blott, M.}, \bibinfo{author}{Leong, P.H.W.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{SYQ:} learning symmetric quantization for efficient
+  deep neural networks}, in: \bibinfo{booktitle}{2018 {IEEE} Conference on
+  Computer Vision and Pattern Recognition, {CVPR} 2018, Salt Lake City, UT,
+  USA, June 18-22, 2018}, pp. \bibinfo{pages}{4300--4309}.
+%Type = Article
+\bibitem[{Figurnov 等(2017)Figurnov, Collins, Zhu, Zhang, Huang, Vetrov 和~
+  Salakhutdinov}]{cvprq72}
+\bibinfo{author}{Figurnov, M.}, \bibinfo{author}{Collins, M.D.},
+  \bibinfo{author}{Zhu, Y.}, \bibinfo{author}{Zhang, L.},
+  \bibinfo{author}{Huang, J.}, \bibinfo{author}{Vetrov, D.P.},
+  \bibinfo{author}{Salakhutdinov, R.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Spatially adaptive computation time for residual
+  networks}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{1790--1799}.
+%Type = Article
+\bibitem[{Frankle 和~ Carbin(2019)}]{2019iclr}
+\bibinfo{author}{Frankle, J.}, \bibinfo{author}{Carbin, M.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{The lottery ticket hypothesis: Finding sparse,
+  trainable neural networks}.
+\newblock \bibinfo{journal}{International Conference on Learning
+  Representationshttps} .
+%Type = Article
+\bibitem[{Glorot 等(2011a)Glorot, Bordes 和~ Bengio}]{relu}
+\bibinfo{author}{Glorot, X.}, \bibinfo{author}{Bordes, A.},
+  \bibinfo{author}{Bengio, Y.}, \bibinfo{year}{2011}a.
+\newblock \bibinfo{title}{Deep sparse rectifier neural networks}
+  \bibinfo{volume}{15}, \bibinfo{pages}{315--323}.
+%Type = Article
+\bibitem[{Glorot 等(2011b)Glorot, Bordes 和~ Bengio}]{2011domain}
+\bibinfo{author}{Glorot, X.}, \bibinfo{author}{Bordes, A.},
+  \bibinfo{author}{Bengio, Y.}, \bibinfo{year}{2011}b.
+\newblock \bibinfo{title}{Domain adaptation for large-scale sentiment
+  classification: A deep learning approach} , \bibinfo{pages}{513--520}.
+%Type = Article
+\bibitem[{Gong 等(2014)Gong, Liu, Yang 和~ Bourdev}]{earlycompression2}
+\bibinfo{author}{Gong, Y.}, \bibinfo{author}{Liu, L.}, \bibinfo{author}{Yang,
+  M.}, \bibinfo{author}{Bourdev, L.D.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Compressing deep convolutional networks using vector
+  quantization.}
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Article
+\bibitem[{Guo 等(2016)Guo, Yao 和~ Chen}]{11}
+\bibinfo{author}{Guo, Y.}, \bibinfo{author}{Yao, A.}, \bibinfo{author}{Chen,
+  Y.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Dynamic network surgery for efficient dnns}.
+\newblock \bibinfo{journal}{neural information processing systems} ,
+  \bibinfo{pages}{1379--1387}.
+%Type = Article
+\bibitem[{Guo 等(2017)Guo, Yao, Zhao 和~ Chen}]{cvprq71}
+\bibinfo{author}{Guo, Y.}, \bibinfo{author}{Yao, A.}, \bibinfo{author}{Zhao,
+  H.}, \bibinfo{author}{Chen, Y.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Network sketching: Exploiting binary structure in
+  deep cnns}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{4040--4048}.
+%Type = Article
+\bibitem[{Han 等(2016a)Han, Mao 和~ Dally}]{deepcompression}
+\bibinfo{author}{Han, S.}, \bibinfo{author}{Mao, H.}, \bibinfo{author}{Dally,
+  W.J.}, \bibinfo{year}{2016}a.
+\newblock \bibinfo{title}{Deep compression: Compressing deep neural networks
+  with pruning, trained quantization and huffman coding}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Article
+\bibitem[{Han 等(2016b)Han, Mao 和~ Dally}]{10}
+\bibinfo{author}{Han, S.}, \bibinfo{author}{Mao, H.}, \bibinfo{author}{Dally,
+  W.J.}, \bibinfo{year}{2016}b.
+\newblock \bibinfo{title}{Deep compression: Compressing deep neural networks
+  with pruning, trained quantization and huffman coding}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Article
+\bibitem[{Han 等(2015)Han, Pool, Tran 和~ Dally}]{9}
+\bibinfo{author}{Han, S.}, \bibinfo{author}{Pool, J.}, \bibinfo{author}{Tran,
+  J.}, \bibinfo{author}{Dally, W.J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Learning both weights and connections for efficient
+  neural networks}.
+\newblock \bibinfo{journal}{neural information processing systems} ,
+  \bibinfo{pages}{1135--1143}.
+%Type = Article
+\bibitem[{Hanson 和~ Pratt(1988)}]{hanson1988}
+\bibinfo{author}{Hanson, S.J.}, \bibinfo{author}{Pratt, L.Y.},
+  \bibinfo{year}{1988}.
+\newblock \bibinfo{title}{Comparing biases for minimal network construction
+  with back-propagation} , \bibinfo{pages}{177--185}.
+%Type = Article
+\bibitem[{Hassibi 和~ Stork(1992)}]{92prune}
+\bibinfo{author}{Hassibi, B.}, \bibinfo{author}{Stork, D.G.},
+  \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Second order derivatives for network pruning: Optimal
+  brain surgeon} , \bibinfo{pages}{164--171}.
+%Type = Article
+\bibitem[{He 等(2015)He, Zhang, Ren 和~ Sun}]{leakyrelu}
+\bibinfo{author}{He, K.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Ren,
+  S.}, \bibinfo{author}{Sun, J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Delving deep into rectifiers: Surpassing human-level
+  performance on imagenet classification}.
+\newblock \bibinfo{journal}{international conference on computer vision} ,
+  \bibinfo{pages}{1026--1034}.
+%Type = Article
+\bibitem[{He 等(2016)He, Zhang, Ren 和~ Sun}]{resnet}
+\bibinfo{author}{He, K.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Ren,
+  S.}, \bibinfo{author}{Sun, J.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Deep residual learning for image recognition}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{770--778}.
+%Type = Article
+\bibitem[{He 等(2018)He, Kang, Dong, Fu 和~ Yang}]{27}
+\bibinfo{author}{He, Y.}, \bibinfo{author}{Kang, G.}, \bibinfo{author}{Dong,
+  X.}, \bibinfo{author}{Fu, Y.}, \bibinfo{author}{Yang, Y.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Soft filter pruning for accelerating deep
+  convolutional neural networks}.
+\newblock \bibinfo{journal}{international joint conference on artificial
+  intelligence} , \bibinfo{pages}{2234--2240}.
+%Type = Inproceedings
+\bibitem[{He 等(2017)He, Zhang 和~ Sun}]{iccvp71}
+\bibinfo{author}{He, Y.}, \bibinfo{author}{Zhang, X.}, \bibinfo{author}{Sun,
+  J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Channel pruning for accelerating very deep neural
+  networks}, in: \bibinfo{booktitle}{{IEEE} International Conference on
+  Computer Vision, {ICCV} 2017, Venice, Italy, October 22-29, 2017}, pp.
+  \bibinfo{pages}{1398--1406}.
+%Type = Article
+\bibitem[{Hinton 等(2012)Hinton, Srivastava, Krizhevsky, Sutskever 和~
+  Salakhutdinov}]{dropout1}
+\bibinfo{author}{Hinton, G.E.}, \bibinfo{author}{Srivastava, N.},
+  \bibinfo{author}{Krizhevsky, A.}, \bibinfo{author}{Sutskever, I.},
+  \bibinfo{author}{Salakhutdinov, R.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Improving neural networks by preventing co-adaptation
+  of feature detectors}.
+\newblock \bibinfo{journal}{arXiv: Neural and Evolutionary Computing} .
+%Type = Article
+\bibitem[{Howard 等(2017)Howard, Zhu, Chen, Kalenichenko, Wang, Weyand,
+  Andreetto 和~ Adam}]{mobilenet}
+\bibinfo{author}{Howard, A.G.}, \bibinfo{author}{Zhu, M.},
+  \bibinfo{author}{Chen, B.}, \bibinfo{author}{Kalenichenko, D.},
+  \bibinfo{author}{Wang, W.}, \bibinfo{author}{Weyand, T.},
+  \bibinfo{author}{Andreetto, M.}, \bibinfo{author}{Adam, H.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Mobilenets: Efficient convolutional neural networks
+  for mobile vision applications.}
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Article
+\bibitem[{Hu 等(2018a)Hu, Shen 和~ Sun}]{senet}
+\bibinfo{author}{Hu, J.}, \bibinfo{author}{Shen, L.}, \bibinfo{author}{Sun,
+  G.}, \bibinfo{year}{2018}a.
+\newblock \bibinfo{title}{Squeeze-and-excitation networks}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{7132--7141}.
+%Type = Inproceedings
+\bibitem[{Hu 等(2018b)Hu, Li, Wang, Zhang 和~ Cheng}]{eccvq81}
+\bibinfo{author}{Hu, Q.}, \bibinfo{author}{Li, G.}, \bibinfo{author}{Wang, P.},
+  \bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Cheng, J.},
+  \bibinfo{year}{2018}b.
+\newblock \bibinfo{title}{Training binary weight networks via semi-binary
+  decomposition}, in: \bibinfo{booktitle}{Computer Vision - {ECCV} 2018 - 15th
+  European Conference, Munich, Germany, September 8-14, 2018, Proceedings, Part
+  {XIII}}, pp. \bibinfo{pages}{657--673}.
+%Type = Article
+\bibitem[{Huang 等(2017)Huang, Liu, Der~Maaten 和~ Weinberger}]{densenet}
+\bibinfo{author}{Huang, G.}, \bibinfo{author}{Liu, Z.},
+  \bibinfo{author}{Der~Maaten, L.V.}, \bibinfo{author}{Weinberger, K.Q.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Densely connected convolutional networks}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{2261--2269}.
+%Type = Article
+\bibitem[{Hubara 等(2017)Hubara, Courbariaux, Soudry, Elyaniv 和~ Bengio}]{qnn}
+\bibinfo{author}{Hubara, I.}, \bibinfo{author}{Courbariaux, M.},
+  \bibinfo{author}{Soudry, D.}, \bibinfo{author}{Elyaniv, R.},
+  \bibinfo{author}{Bengio, Y.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Quantized neural networks: training neural networks
+  with low precision weights and activations}.
+\newblock \bibinfo{journal}{Journal of Machine Learning Research}
+  \bibinfo{volume}{18}, \bibinfo{pages}{6869--6898}.
+%Type = Article
+\bibitem[{Iandola 等(2017)Iandola, Han, Moskewicz, Ashraf, Dally 和~
+  Keutzer}]{squeezenet}
+\bibinfo{author}{Iandola, F.N.}, \bibinfo{author}{Han, S.},
+  \bibinfo{author}{Moskewicz, M.W.}, \bibinfo{author}{Ashraf, K.},
+  \bibinfo{author}{Dally, W.J.}, \bibinfo{author}{Keutzer, K.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Squeezenet: Alexnet-level accuracy with 50x fewer
+  parameters and <0.5mb model size}.
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Article
+\bibitem[{Ioffe 和~ Szegedy(2015)}]{batchnormalization}
+\bibinfo{author}{Ioffe, S.}, \bibinfo{author}{Szegedy, C.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Batch normalization: Accelerating deep network
+  training by reducing internal covariate shift}.
+\newblock \bibinfo{journal}{international conference on machine learning} ,
+  \bibinfo{pages}{448--456}.
+%Type = Article
+\bibitem[{Jacob 等(2018a)Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam 和~
+  Kalenichenko}]{quantization}
+\bibinfo{author}{Jacob, B.}, \bibinfo{author}{Kligys, S.},
+  \bibinfo{author}{Chen, B.}, \bibinfo{author}{Zhu, M.}, \bibinfo{author}{Tang,
+  M.}, \bibinfo{author}{Howard, A.G.}, \bibinfo{author}{Adam, H.},
+  \bibinfo{author}{Kalenichenko, D.}, \bibinfo{year}{2018}a.
+\newblock \bibinfo{title}{Quantization and training of neural networks for
+  efficient integer-arithmetic-only inference}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{2704--2713}.
+%Type = Inproceedings
+\bibitem[{Jacob 等(2018b)Jacob, Kligys, Chen, Zhu, Tang, Howard, Adam 和~
+  Kalenichenko}]{cvprq82}
+\bibinfo{author}{Jacob, B.}, \bibinfo{author}{Kligys, S.},
+  \bibinfo{author}{Chen, B.}, \bibinfo{author}{Zhu, M.}, \bibinfo{author}{Tang,
+  M.}, \bibinfo{author}{Howard, A.G.}, \bibinfo{author}{Adam, H.},
+  \bibinfo{author}{Kalenichenko, D.}, \bibinfo{year}{2018}b.
+\newblock \bibinfo{title}{Quantization and training of neural networks for
+  efficient integer-arithmetic-only inference}, in: \bibinfo{booktitle}{2018
+  {IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR} 2018,
+  Salt Lake City, UT, USA, June 18-22, 2018}, pp. \bibinfo{pages}{2704--2713}.
+%Type = Article
+\bibitem[{Jegou 等(2011)Jegou, Douze 和~ Schmid}]{2011product}
+\bibinfo{author}{Jegou, H.}, \bibinfo{author}{Douze, M.},
+  \bibinfo{author}{Schmid, C.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Product quantization for nearest neighbor search}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{33}, \bibinfo{pages}{117--128}.
+%Type = Inproceedings
+\bibitem[{Jin 等(2018)Jin, Yang, Xu, Yang, Jojic, Feng 和~ Yan}]{icmlq84}
+\bibinfo{author}{Jin, X.}, \bibinfo{author}{Yang, Y.}, \bibinfo{author}{Xu,
+  N.}, \bibinfo{author}{Yang, J.}, \bibinfo{author}{Jojic, N.},
+  \bibinfo{author}{Feng, J.}, \bibinfo{author}{Yan, S.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Wsnet: Compact and efficient networks through weight
+  sampling}, in: \bibinfo{booktitle}{Proceedings of the 35th International
+  Conference on Machine Learning, {ICML} 2018, Stockholmsm{\"{a}}ssan,
+  Stockholm, Sweden, July 10-15, 2018}, pp. \bibinfo{pages}{2357--2366}.
+%Type = Article
+\bibitem[{Jin 等(2016)Jin, Yuan, Feng 和~ Yan}]{skinny}
+\bibinfo{author}{Jin, X.}, \bibinfo{author}{Yuan, X.}, \bibinfo{author}{Feng,
+  J.}, \bibinfo{author}{Yan, S.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Training skinny deep neural networks with iterative
+  hard thresholding methods.}
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Article
+\bibitem[{Karpathy 和~ Feifei(2015)}]{2015deep}
+\bibinfo{author}{Karpathy, A.}, \bibinfo{author}{Feifei, L.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Deep visual-semantic alignments for generating image
+  descriptions}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{3128--3137}.
+%Type = Inproceedings
+\bibitem[{Kim 等(2018)Kim, Ahn 和~ Oh}]{cvprp81}
+\bibinfo{author}{Kim, E.}, \bibinfo{author}{Ahn, C.}, \bibinfo{author}{Oh, S.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Nestednet: Learning nested sparse structures in deep
+  neural networks}, in: \bibinfo{booktitle}{2018 {IEEE} Conference on Computer
+  Vision and Pattern Recognition, {CVPR} 2018, Salt Lake City, UT, USA, June
+  18-22, 2018}, pp. \bibinfo{pages}{8669--8678}.
+%Type = Article
+\bibitem[{Krizhevsky 和~ Hinton(2009)}]{cifar}
+\bibinfo{author}{Krizhevsky, A.}, \bibinfo{author}{Hinton, G.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Learning multiple layers of features from tiny
+  images} .
+%Type = Inproceedings
+\bibitem[{Krizhevsky 等(2012a)Krizhevsky, Sutskever 和~ Hinton}]{alexnet}
+\bibinfo{author}{Krizhevsky, A.}, \bibinfo{author}{Sutskever, I.},
+  \bibinfo{author}{Hinton, G.E.}, \bibinfo{year}{2012}a.
+\newblock \bibinfo{title}{Imagenet classification with deep convolutional
+  neural networks}, in: \bibinfo{booktitle}{Advances in Neural Information
+  Processing Systems 25: 26th Annual Conference on Neural Information
+  Processing Systems 2012. Proceedings of a meeting held December 3-6, 2012,
+  Lake Tahoe, Nevada, United States.}, pp. \bibinfo{pages}{1106--1114}.
+%Type = Article
+\bibitem[{Krizhevsky 等(2012b)Krizhevsky, Sutskever 和~ Hinton}]{2012imagenet}
+\bibinfo{author}{Krizhevsky, A.}, \bibinfo{author}{Sutskever, I.},
+  \bibinfo{author}{Hinton, G.E.}, \bibinfo{year}{2012}b.
+\newblock \bibinfo{title}{Imagenet classification with deep convolutional
+  neural networks} , \bibinfo{pages}{1097--1105}.
+%Type = Article
+\bibitem[{Lebedev 和~ Lempitsky(2016)}]{13}
+\bibinfo{author}{Lebedev, V.}, \bibinfo{author}{Lempitsky, V.S.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Fast convnets using group-wise brain damage}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{2554--2564}.
+%Type = Article
+\bibitem[{Lecun 等(1998)Lecun, Bottou, Bengio 和~ Haffner}]{lenet}
+\bibinfo{author}{Lecun, Y.}, \bibinfo{author}{Bottou, L.},
+  \bibinfo{author}{Bengio, Y.}, \bibinfo{author}{Haffner, P.},
+  \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{Gradient-based learning applied to document
+  recognition}.
+\newblock \bibinfo{journal}{Proceedings of the IEEE} \bibinfo{volume}{86},
+  \bibinfo{pages}{2278--2324}.
+%Type = Article
+\bibitem[{Lecun 等(1989)Lecun, Denker 和~ Solla}]{90prune}
+\bibinfo{author}{Lecun, Y.}, \bibinfo{author}{Denker, J.S.},
+  \bibinfo{author}{Solla, S.A.}, \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{Optimal brain damage} \bibinfo{volume}{2},
+  \bibinfo{pages}{598--605}.
+%Type = Article
+\bibitem[{Lee 等(2017)Lee, Miyashita, Chai, Murmann 和~ Wong}]{icasspq71}
+\bibinfo{author}{Lee, E.H.}, \bibinfo{author}{Miyashita, D.},
+  \bibinfo{author}{Chai, E.}, \bibinfo{author}{Murmann, B.},
+  \bibinfo{author}{Wong, S.S.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Lognet: Energy-efficient neural networks using
+  logarithmic computation} , \bibinfo{pages}{5900--5904}.
+%Type = Article
+\bibitem[{Leng 等(2018)Leng, Dou, Li, Zhu 和~ Jin}]{extremely}
+\bibinfo{author}{Leng, C.}, \bibinfo{author}{Dou, Z.}, \bibinfo{author}{Li,
+  H.}, \bibinfo{author}{Zhu, S.}, \bibinfo{author}{Jin, R.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Extremely low bit neural network: Squeeze the last
+  bit out with admm}.
+\newblock \bibinfo{journal}{national conference on artificial intelligence} ,
+  \bibinfo{pages}{3466--3473}.
+%Type = Article
+\bibitem[{Li 和~ Liu(2016)}]{ternary}
+\bibinfo{author}{Li, F.}, \bibinfo{author}{Liu, B.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Ternary weight networks}.
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Inproceedings
+\bibitem[{Li 等(2017a)Li, De, Xu, Studer, Samet 和~ Goldstein}]{nipsq75}
+\bibinfo{author}{Li, H.}, \bibinfo{author}{De, S.}, \bibinfo{author}{Xu, Z.},
+  \bibinfo{author}{Studer, C.}, \bibinfo{author}{Samet, H.},
+  \bibinfo{author}{Goldstein, T.}, \bibinfo{year}{2017}a.
+\newblock \bibinfo{title}{Training quantized nets: {A} deeper understanding},
+  in: \bibinfo{booktitle}{Advances in Neural Information Processing Systems 30:
+  Annual Conference on Neural Information Processing Systems 2017, 4-9 December
+  2017, Long Beach, CA, {USA}}, pp. \bibinfo{pages}{5813--5823}.
+%Type = Article
+\bibitem[{Li 等(2017b)Li, Kadav, Durdanovic, Samet 和~ Graf}]{17}
+\bibinfo{author}{Li, H.}, \bibinfo{author}{Kadav, A.},
+  \bibinfo{author}{Durdanovic, I.}, \bibinfo{author}{Samet, H.},
+  \bibinfo{author}{Graf, H.P.}, \bibinfo{year}{2017}b.
+\newblock \bibinfo{title}{Pruning filters for efficient convnets}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Inproceedings
+\bibitem[{Li 等(2017c)Li, Ni, Zhang, Yang 和~ Gao}]{iccvq71}
+\bibinfo{author}{Li, Z.}, \bibinfo{author}{Ni, B.}, \bibinfo{author}{Zhang,
+  W.}, \bibinfo{author}{Yang, X.}, \bibinfo{author}{Gao, W.},
+  \bibinfo{year}{2017}c.
+\newblock \bibinfo{title}{Performance guaranteed network acceleration via
+  high-order residual quantization}, in: \bibinfo{booktitle}{{IEEE}
+  International Conference on Computer Vision, {ICCV} 2017, Venice, Italy,
+  October 22-29, 2017}, pp. \bibinfo{pages}{2603--2611}.
+%Type = Inproceedings
+\bibitem[{Lin 等(2017a)Lin, Rao, Lu 和~ Zhou}]{nipsp73}
+\bibinfo{author}{Lin, J.}, \bibinfo{author}{Rao, Y.}, \bibinfo{author}{Lu, J.},
+  \bibinfo{author}{Zhou, J.}, \bibinfo{year}{2017}a.
+\newblock \bibinfo{title}{Runtime neural pruning}, in:
+  \bibinfo{booktitle}{Advances in Neural Information Processing Systems 30:
+  Annual Conference on Neural Information Processing Systems 2017, 4-9 December
+  2017, Long Beach, CA, {USA}}, pp. \bibinfo{pages}{2178--2188}.
+%Type = Article
+\bibitem[{Lin 等(2014)Lin, Chen 和~ Yan}]{networkinnetwork}
+\bibinfo{author}{Lin, M.}, \bibinfo{author}{Chen, Q.}, \bibinfo{author}{Yan,
+  S.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Network in network}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Inproceedings
+\bibitem[{Lin 等(2017b)Lin, Zhao 和~ Pan}]{nipsq71}
+\bibinfo{author}{Lin, X.}, \bibinfo{author}{Zhao, C.}, \bibinfo{author}{Pan,
+  W.}, \bibinfo{year}{2017}b.
+\newblock \bibinfo{title}{Towards accurate binary convolutional neural
+  network}, in: \bibinfo{booktitle}{Advances in Neural Information Processing
+  Systems 30: Annual Conference on Neural Information Processing Systems 2017,
+  4-9 December 2017, Long Beach, CA, {USA}}, pp. \bibinfo{pages}{344--352}.
+%Type = Article
+\bibitem[{Liu 和~ Pool(2018)}]{2018iclr}
+\bibinfo{author}{Liu, X.}, \bibinfo{author}{Pool, J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Efficient sparse-winograd convolutional neural
+  networks}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Article
+\bibitem[{Liu 等(2017)Liu, Li, Shen, Huang, Yan 和~ Zhang}]{18}
+\bibinfo{author}{Liu, Z.}, \bibinfo{author}{Li, J.}, \bibinfo{author}{Shen,
+  Z.}, \bibinfo{author}{Huang, G.}, \bibinfo{author}{Yan, S.},
+  \bibinfo{author}{Zhang, C.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Learning efficient convolutional networks through
+  network slimming}.
+\newblock \bibinfo{journal}{international conference on computer vision} ,
+  \bibinfo{pages}{2755--2763}.
+%Type = Inproceedings
+\bibitem[{Louizos 等(2017)Louizos, Ullrich 和~ Welling}]{nipsq74}
+\bibinfo{author}{Louizos, C.}, \bibinfo{author}{Ullrich, K.},
+  \bibinfo{author}{Welling, M.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Bayesian compression for deep learning}, in:
+  \bibinfo{booktitle}{Advances in Neural Information Processing Systems 30:
+  Annual Conference on Neural Information Processing Systems 2017, 4-9 December
+  2017, Long Beach, CA, {USA}}, pp. \bibinfo{pages}{3290--3300}.
+%Type = Article
+\bibitem[{Louizos 等(2018)Louizos, Welling 和~ Kingma}]{iclrp81}
+\bibinfo{author}{Louizos, C.}, \bibinfo{author}{Welling, M.},
+  \bibinfo{author}{Kingma, D.P.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Learning sparse neural networks through
+  l\({}_{\mbox{0}}\) regularization} \eprint{1712.01312}.
+%Type = Article
+\bibitem[{Mcdonnell(2018)}]{18bianry}
+\bibinfo{author}{Mcdonnell, M.D.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Training wide residual networks for deployment using
+  a single bit for each weight}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Inproceedings
+\bibitem[{Micikevicius 等(2018)Micikevicius, Narang, Alben, Diamos, Elsen,
+  Garc{\'{\i}}a, Ginsburg, Houston, Kuchaiev, Venkatesh 和~ Wu}]{iclrq82}
+\bibinfo{author}{Micikevicius, P.}, \bibinfo{author}{Narang, S.},
+  \bibinfo{author}{Alben, J.}, \bibinfo{author}{Diamos, G.F.},
+  \bibinfo{author}{Elsen, E.}, \bibinfo{author}{Garc{\'{\i}}a, D.},
+  \bibinfo{author}{Ginsburg, B.}, \bibinfo{author}{Houston, M.},
+  \bibinfo{author}{Kuchaiev, O.}, \bibinfo{author}{Venkatesh, G.},
+  \bibinfo{author}{Wu, H.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Mixed precision training}, in:
+  \bibinfo{booktitle}{6th International Conference on Learning Representations,
+  {ICLR} 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track
+  Proceedings}.
+%Type = Article
+\bibitem[{Molchanov 等(2017)Molchanov, Tyree, Karras, Aila 和~ Kautz}]{21}
+\bibinfo{author}{Molchanov, P.}, \bibinfo{author}{Tyree, S.},
+  \bibinfo{author}{Karras, T.}, \bibinfo{author}{Aila, T.},
+  \bibinfo{author}{Kautz, J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Pruning convolutional neural networks for resource
+  efficient inference}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Article
+\bibitem[{Ochiai 等(2017)Ochiai, Matsuda, Watanabe 和~ Katagiri}]{icasspq73}
+\bibinfo{author}{Ochiai, T.}, \bibinfo{author}{Matsuda, S.},
+  \bibinfo{author}{Watanabe, H.}, \bibinfo{author}{Katagiri, S.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Automatic node selection for deep neural networks
+  using group lasso regularization}.
+\newblock \bibinfo{journal}{international conference on acoustics, speech, and
+  signal processing} , \bibinfo{pages}{5485--5489}.
+%Type = Inproceedings
+\bibitem[{Park 等(2018)Park, Yoo 和~ Vajda}]{eccvq86}
+\bibinfo{author}{Park, E.}, \bibinfo{author}{Yoo, S.}, \bibinfo{author}{Vajda,
+  P.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Value-aware quantization for training and inference
+  of neural networks}, in: \bibinfo{booktitle}{Computer Vision - {ECCV} 2018 -
+  15th European Conference, Munich, Germany, September 8-14, 2018, Proceedings,
+  Part {IV}}, pp. \bibinfo{pages}{608--624}.
+%Type = Article
+\bibitem[{Rastegari 等(2016)Rastegari, Ordonez, Redmon 和~ Farhadi}]{xnornet}
+\bibinfo{author}{Rastegari, M.}, \bibinfo{author}{Ordonez, V.},
+  \bibinfo{author}{Redmon, J.}, \bibinfo{author}{Farhadi, A.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Xnor-net: Imagenet classification using binary
+  convolutional neural networks}.
+\newblock \bibinfo{journal}{european conference on computer vision} ,
+  \bibinfo{pages}{525--542}.
+%Type = Inproceedings
+\bibitem[{Reagen 等(2018)Reagen, Gupta, Adolf, Mitzenmacher, Rush, Wei 和~
+  Brooks}]{icmlq83}
+\bibinfo{author}{Reagen, B.}, \bibinfo{author}{Gupta, U.},
+  \bibinfo{author}{Adolf, R.}, \bibinfo{author}{Mitzenmacher, M.},
+  \bibinfo{author}{Rush, A.M.}, \bibinfo{author}{Wei, G.},
+  \bibinfo{author}{Brooks, D.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Weightless: Lossy weight encoding for deep neural
+  network compression}, in: \bibinfo{booktitle}{6th International Conference on
+  Learning Representations, {ICLR} 2018, Vancouver, BC, Canada, April 30 - May
+  3, 2018, Workshop Track Proceedings}.
+%Type = Article
+\bibitem[{Rumelhart 等(1988)Rumelhart, Hinton 和~ Williams}]{bp}
+\bibinfo{author}{Rumelhart, D.E.}, \bibinfo{author}{Hinton, G.E.},
+  \bibinfo{author}{Williams, R.J.}, \bibinfo{year}{1988}.
+\newblock \bibinfo{title}{Learning representations by back-propagating errors}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{323},
+  \bibinfo{pages}{696--699}.
+%Type = Inproceedings
+\bibitem[{Sakr 等(2017)Sakr, Kim 和~ Shanbhag}]{icmlq72}
+\bibinfo{author}{Sakr, C.}, \bibinfo{author}{Kim, Y.},
+  \bibinfo{author}{Shanbhag, N.R.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Analytical guarantees on numerical precision of deep
+  neural networks}, in: \bibinfo{booktitle}{Proceedings of the 34th
+  International Conference on Machine Learning, {ICML} 2017, Sydney, NSW,
+  Australia, 6-11 August 2017}, pp. \bibinfo{pages}{3007--3016}.
+%Type = Article
+\bibitem[{Scardapane 等(2017)Scardapane, Comminiello, Hussain 和~ Uncini}]{16}
+\bibinfo{author}{Scardapane, S.}, \bibinfo{author}{Comminiello, D.},
+  \bibinfo{author}{Hussain, A.}, \bibinfo{author}{Uncini, A.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Group sparse regularization for deep neural
+  networks}.
+\newblock \bibinfo{journal}{Neurocomputing} \bibinfo{volume}{241},
+  \bibinfo{pages}{81--89}.
+%Type = Article
+\bibitem[{Shin 等(2017)Shin, Boo 和~ Sung}]{icasspq72}
+\bibinfo{author}{Shin, S.}, \bibinfo{author}{Boo, Y.}, \bibinfo{author}{Sung,
+  W.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Fixed-point optimization of deep neural networks with
+  adaptive step size retraining}.
+\newblock \bibinfo{journal}{international conference on acoustics, speech, and
+  signal processing} , \bibinfo{pages}{1203--1207}.
+%Type = Article
+\bibitem[{Srivastava 等(2014)Srivastava, Hinton, Krizhevsky, Sutskever 和~
+  Salakhutdinov}]{dropout2}
+\bibinfo{author}{Srivastava, N.}, \bibinfo{author}{Hinton, G.E.},
+  \bibinfo{author}{Krizhevsky, A.}, \bibinfo{author}{Sutskever, I.},
+  \bibinfo{author}{Salakhutdinov, R.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Dropout: a simple way to prevent neural networks from
+  overfitting}.
+\newblock \bibinfo{journal}{Journal of Machine Learning Research}
+  \bibinfo{volume}{15}, \bibinfo{pages}{1929--1958}.
+%Type = Article
+\bibitem[{Szegedy 等(2015)Szegedy, Liu, Jia, Sermanet, Reed, Anguelov, Erhan,
+  Vanhoucke 和~ Rabinovich}]{googlenet}
+\bibinfo{author}{Szegedy, C.}, \bibinfo{author}{Liu, W.}, \bibinfo{author}{Jia,
+  Y.}, \bibinfo{author}{Sermanet, P.}, \bibinfo{author}{Reed, S.E.},
+  \bibinfo{author}{Anguelov, D.}, \bibinfo{author}{Erhan, D.},
+  \bibinfo{author}{Vanhoucke, V.}, \bibinfo{author}{Rabinovich, A.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Going deeper with convolutions}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{1--9}.
+%Type = Article
+\bibitem[{Tian 等(2017)Tian, Arbel 和~ Clark}]{LDA}
+\bibinfo{author}{Tian, Q.}, \bibinfo{author}{Arbel, T.},
+  \bibinfo{author}{Clark, J.J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Efficient gender classification using a deep
+  lda-pruned net.}
+\newblock \bibinfo{journal}{arXiv: Computer Vision and Pattern Recognition} .
+%Type = Article
+\bibitem[{Venkatesh 等(2017)Venkatesh, Nurvitadhi 和~ Marr}]{icasspq74}
+\bibinfo{author}{Venkatesh, G.}, \bibinfo{author}{Nurvitadhi, E.},
+  \bibinfo{author}{Marr, D.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Accelerating deep convolutional networks using
+  low-precision and sparsity}.
+\newblock \bibinfo{journal}{international conference on acoustics, speech, and
+  signal processing} , \bibinfo{pages}{2861--2865}.
+%Type = Article
+\bibitem[{Vinyals 等(2015)Vinyals, Toshev, Bengio 和~ Erhan}]{2015show}
+\bibinfo{author}{Vinyals, O.}, \bibinfo{author}{Toshev, A.},
+  \bibinfo{author}{Bengio, S.}, \bibinfo{author}{Erhan, D.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Show and tell: A neural image caption generator}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{3156--3164}.
+%Type = Article
+\bibitem[{Wen 等(2016)Wen, Wu, Wang, Chen 和~ Li}]{12}
+\bibinfo{author}{Wen, W.}, \bibinfo{author}{Wu, C.}, \bibinfo{author}{Wang,
+  Y.}, \bibinfo{author}{Chen, Y.}, \bibinfo{author}{Li, H.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Learning structured sparsity in deep neural
+  networks}.
+\newblock \bibinfo{journal}{neural information processing systems} ,
+  \bibinfo{pages}{2074--2082}.
+%Type = Inproceedings
+\bibitem[{Wen 等(2017)Wen, Xu, Yan, Wu, Wang, Chen 和~ Li}]{nipsq73}
+\bibinfo{author}{Wen, W.}, \bibinfo{author}{Xu, C.}, \bibinfo{author}{Yan, F.},
+  \bibinfo{author}{Wu, C.}, \bibinfo{author}{Wang, Y.}, \bibinfo{author}{Chen,
+  Y.}, \bibinfo{author}{Li, H.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Terngrad: Ternary gradients to reduce communication
+  in distributed deep learning}, in: \bibinfo{booktitle}{Advances in Neural
+  Information Processing Systems 30: Annual Conference on Neural Information
+  Processing Systems 2017, 4-9 December 2017, Long Beach, CA, {USA}}, pp.
+  \bibinfo{pages}{1508--1518}.
+%Type = Inproceedings
+\bibitem[{Wu 等(2018a)Wu, Li, Chen 和~ Shi}]{iclrq81}
+\bibinfo{author}{Wu, S.}, \bibinfo{author}{Li, G.}, \bibinfo{author}{Chen, F.},
+  \bibinfo{author}{Shi, L.}, \bibinfo{year}{2018}a.
+\newblock \bibinfo{title}{Training and inference with integers in deep neural
+  networks}, in: \bibinfo{booktitle}{6th International Conference on Learning
+  Representations, {ICLR} 2018, Vancouver, BC, Canada, April 30 - May 3, 2018,
+  Conference Track Proceedings}.
+%Type = Inproceedings
+\bibitem[{Wu 等(2018b)Wu, Nagarajan, Kumar, Rennie, Davis, Grauman 和~
+  Feris}]{cvprq83}
+\bibinfo{author}{Wu, Z.}, \bibinfo{author}{Nagarajan, T.},
+  \bibinfo{author}{Kumar, A.}, \bibinfo{author}{Rennie, S.},
+  \bibinfo{author}{Davis, L.S.}, \bibinfo{author}{Grauman, K.},
+  \bibinfo{author}{Feris, R.S.}, \bibinfo{year}{2018}b.
+\newblock \bibinfo{title}{Blockdrop: Dynamic inference paths in residual
+  networks}, in: \bibinfo{booktitle}{2018 {IEEE} Conference on Computer Vision
+  and Pattern Recognition, {CVPR} 2018, Salt Lake City, UT, USA, June 18-22,
+  2018}, pp. \bibinfo{pages}{8817--8826}.
+%Type = Article
+\bibitem[{Xu 等(2018)Xu, Wang, Zhou, Lin 和~ Xiong}]{18incre}
+\bibinfo{author}{Xu, Y.}, \bibinfo{author}{Wang, Y.}, \bibinfo{author}{Zhou,
+  A.}, \bibinfo{author}{Lin, W.}, \bibinfo{author}{Xiong, H.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Deep neural network compression with single and
+  multiple level quantization}.
+\newblock \bibinfo{journal}{national conference on artificial intelligence} ,
+  \bibinfo{pages}{4335--4342}.
+%Type = Article
+\bibitem[{Yang 等(2017a)Yang, Chen 和~ Sze}]{energy}
+\bibinfo{author}{Yang, T.}, \bibinfo{author}{Chen, Y.}, \bibinfo{author}{Sze,
+  V.}, \bibinfo{year}{2017}a.
+\newblock \bibinfo{title}{Designing energy-efficient convolutional neural
+  networks using energy-aware pruning}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{6071--6079}.
+%Type = Inproceedings
+\bibitem[{Yang 等(2017b)Yang, Chen 和~ Sze}]{cvprp71}
+\bibinfo{author}{Yang, T.}, \bibinfo{author}{Chen, Y.}, \bibinfo{author}{Sze,
+  V.}, \bibinfo{year}{2017}b.
+\newblock \bibinfo{title}{Designing energy-efficient convolutional neural
+  networks using energy-aware pruning}, in: \bibinfo{booktitle}{2017 {IEEE}
+  Conference on Computer Vision and Pattern Recognition, {CVPR} 2017, Honolulu,
+  HI, USA, July 21-26, 2017}, pp. \bibinfo{pages}{6071--6079}.
+%Type = Article
+\bibitem[{Ye 等(2018)Ye, Lu, Lin 和~ Wang}]{29}
+\bibinfo{author}{Ye, J.}, \bibinfo{author}{Lu, X.}, \bibinfo{author}{Lin,
+  Z.L.}, \bibinfo{author}{Wang, J.Z.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Rethinking the smaller-norm-less-informative
+  assumption in channel pruning of convolution layers}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Inproceedings
+\bibitem[{Yoon 和~ Hwang(2017)}]{icmlp71}
+\bibinfo{author}{Yoon, J.}, \bibinfo{author}{Hwang, S.J.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Combined group and exclusive sparsity for deep neural
+  networks}, in: \bibinfo{booktitle}{Proceedings of the 34th International
+  Conference on Machine Learning, {ICML} 2017, Sydney, NSW, Australia, 6-11
+  August 2017}, pp. \bibinfo{pages}{3958--3966}.
+%Type = Inproceedings
+\bibitem[{Zhang 等(2018a)Zhang, Yang, Ye 和~ Hua}]{eccvq87}
+\bibinfo{author}{Zhang, D.}, \bibinfo{author}{Yang, J.}, \bibinfo{author}{Ye,
+  D.}, \bibinfo{author}{Hua, G.}, \bibinfo{year}{2018}a.
+\newblock \bibinfo{title}{Lq-nets: Learned quantization for highly accurate and
+  compact deep neural networks}, in: \bibinfo{booktitle}{Computer Vision -
+  {ECCV} 2018 - 15th European Conference, Munich, Germany, September 8-14,
+  2018, Proceedings, Part {VIII}}, pp. \bibinfo{pages}{373--390}.
+%Type = Article
+\bibitem[{Zhang 等(2017)Zhang, Li, Kara, Alistarh, Liu 和~ Zhang}]{icmlq71}
+\bibinfo{author}{Zhang, H.}, \bibinfo{author}{Li, J.}, \bibinfo{author}{Kara,
+  K.}, \bibinfo{author}{Alistarh, D.}, \bibinfo{author}{Liu, J.},
+  \bibinfo{author}{Zhang, C.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{The zipml framework for training models with
+  end-to-end low precision: The cans, the cannots, and a little bit of deep
+  learning.}
+\newblock \bibinfo{journal}{international conference on machine learning} .
+%Type = Article
+\bibitem[{Zhang 等(2018b)Zhang, Zhou, Lin 和~ Sun}]{shufflenet}
+\bibinfo{author}{Zhang, X.}, \bibinfo{author}{Zhou, X.}, \bibinfo{author}{Lin,
+  M.}, \bibinfo{author}{Sun, J.}, \bibinfo{year}{2018}b.
+\newblock \bibinfo{title}{Shufflenet: An extremely efficient convolutional
+  neural network for mobile devices}.
+\newblock \bibinfo{journal}{computer vision and pattern recognition} ,
+  \bibinfo{pages}{6848--6856}.
+%Type = Article
+\bibitem[{Zhong 等(2018)Zhong, Ding, Guo, Han 和~ Wang}]{28}
+\bibinfo{author}{Zhong, J.}, \bibinfo{author}{Ding, G.}, \bibinfo{author}{Guo,
+  Y.}, \bibinfo{author}{Han, J.}, \bibinfo{author}{Wang, B.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Where to prune: Using lstm to guide end-to-end
+  pruning} , \bibinfo{pages}{3205--3211}.
+%Type = Article
+\bibitem[{Zhou 等(2017)Zhou, Yao, Guo, Xu 和~ Chen}]{incremental}
+\bibinfo{author}{Zhou, A.}, \bibinfo{author}{Yao, A.}, \bibinfo{author}{Guo,
+  Y.}, \bibinfo{author}{Xu, L.}, \bibinfo{author}{Chen, Y.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Incremental network quantization: Towards lossless
+  cnns with low-precision weights}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Article
+\bibitem[{Zhou 等(2016)Zhou, Ni, Zhou, Wen, Wu 和~ Zou}]{dorefanet:}
+\bibinfo{author}{Zhou, S.}, \bibinfo{author}{Ni, Z.}, \bibinfo{author}{Zhou,
+  X.}, \bibinfo{author}{Wen, H.}, \bibinfo{author}{Wu, Y.},
+  \bibinfo{author}{Zou, Y.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Dorefa-net: Training low bitwidth convolutional
+  neural networks with low bitwidth gradients}.
+\newblock \bibinfo{journal}{arXiv: Neural and Evolutionary Computing} .
+%Type = Article
+\bibitem[{Zhu 等(2017)Zhu, Han, Mao 和~ Dally}]{ternary2}
+\bibinfo{author}{Zhu, C.}, \bibinfo{author}{Han, S.}, \bibinfo{author}{Mao,
+  H.}, \bibinfo{author}{Dally, W.J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Trained ternary quantization}.
+\newblock \bibinfo{journal}{international conference on learning
+  representations} .
+%Type = Inproceedings
+\bibitem[{Zhuang 等(2018)Zhuang, Shen, Tan, Liu 和~ Reid}]{cvprq86}
+\bibinfo{author}{Zhuang, B.}, \bibinfo{author}{Shen, C.}, \bibinfo{author}{Tan,
+  M.}, \bibinfo{author}{Liu, L.}, \bibinfo{author}{Reid, I.D.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Towards effective low-bitwidth convolutional neural
+  networks}, in: \bibinfo{booktitle}{2018 {IEEE} Conference on Computer Vision
+  and Pattern Recognition, {CVPR} 2018, Salt Lake City, UT, USA, June 18-22,
+  2018}, pp. \bibinfo{pages}{7920--7928}.
+
+\end{thebibliography}

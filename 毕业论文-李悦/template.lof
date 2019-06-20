@@ -1,0 +1,24 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 量化算法的简单原理示意图：将浮点数参数替换为2的幂值\relax }}{3}{figure.caption.4}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces 两类剪枝算法的对比：参数剪枝和filters（channels通道）剪枝.图中虚线部分代表被剪去的参数；圆代表被剪去的filters（channels）\relax }}{6}{figure.caption.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 卷积操作示意图\relax }}{10}{figure.caption.6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 四种常见的激活函数\relax }}{11}{figure.caption.7}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 两种池化技术：max pooling和average pooling\relax }}{11}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 传统方法和基于聚类的量化目标值集合的分布对比\relax }}{18}{figure.caption.9}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces AlexNet中五个卷积层中参数的分布状况 \relax }}{19}{figure.caption.10}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces MNIST数据集中的图片\relax }}{21}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 三种量化目标值集合的应用范围的对比\relax }}{26}{figure.caption.14}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 两种目标值集合应用范围下，参数空间对比\relax }}{28}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces CNN网络进行剪枝的一般性流程\relax }}{37}{figure.caption.19}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces CNN网络filters剪枝的原理示意图\relax }}{39}{figure.caption.20}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 传统剪枝思想和IPLT剪枝思想的对比\relax }}{43}{figure.caption.21}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces CIFAR10数据集中图片展示\relax }}{48}{figure.caption.22}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

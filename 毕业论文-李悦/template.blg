@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: template.aux
+The style file: NJUthesis.bst
+Database file #1: template.bib
+A bad cross reference---entry "alexnet"
+refers to entry "DBLP:conf/nips/2012", which doesn't exist
+A bad cross reference---entry "mec"
+refers to entry "DBLP:conf/icml/2017", which doesn't exist
+A bad cross reference---entry "icmlq84"
+refers to entry "DBLP:conf/icml/2018", which doesn't exist
+A bad cross reference---entry "cvprq83"
+refers to entry "DBLP:conf/cvpr/2018", which doesn't exist
+A bad cross reference---entry "eccvq86"
+refers to entry "DBLP:conf/eccv/2018-4", which doesn't exist
+A bad cross reference---entry "eccvq89"
+refers to entry "DBLP:conf/eccv/2018-8", which doesn't exist
+A bad cross reference---entry "iccvq71"
+refers to entry "DBLP:conf/iccv/2017", which doesn't exist
+A bad cross reference---entry "nipsq71"
+refers to entry "DBLP:conf/nips/2017", which doesn't exist
+A bad cross reference---entry "cvprq84"
+refers to entry "DBLP:conf/cvpr/2018", which doesn't exist
+A bad cross reference---entry "eccvq84"
+refers to entry "DBLP:conf/eccv/2018-7", which doesn't exist
+A bad cross reference---entry "icmlq72"
+refers to entry "DBLP:conf/icml/2017", which doesn't exist
+A bad cross reference---entry "iclrq81"
+refers to entry "DBLP:conf/iclr/2018", which doesn't exist
+A bad cross reference---entry "iclrq82"
+refers to entry "DBLP:conf/iclr/2018", which doesn't exist
+A bad cross reference---entry "cvprq82"
+refers to entry "DBLP:conf/cvpr/2018", which doesn't exist
+A bad cross reference---entry "cvprq86"
+refers to entry "DBLP:conf/cvpr/2018", which doesn't exist
+A bad cross reference---entry "eccvq81"
+refers to entry "DBLP:conf/eccv/2018-13", which doesn't exist
+A bad cross reference---entry "nipsq72"
+refers to entry "DBLP:conf/nips/2017", which doesn't exist
+A bad cross reference---entry "icmlq83"
+refers to entry "DBLP:conf/iclr/2018w", which doesn't exist
+A bad cross reference---entry "nipsq75"
+refers to entry "DBLP:conf/nips/2017", which doesn't exist
+A bad cross reference---entry "nipsq74"
+refers to entry "DBLP:conf/nips/2017", which doesn't exist
+A bad cross reference---entry "cvprp71"
+refers to entry "DBLP:conf/cvpr/2017", which doesn't exist
+A bad cross reference---entry "nipsq73"
+refers to entry "DBLP:conf/nips/2017", which doesn't exist
+A bad cross reference---entry "icmlq81"
+refers to entry "DBLP:conf/icml/2018", which doesn't exist
+A bad cross reference---entry "nipsp73"
+refers to entry "DBLP:conf/nips/2017", which doesn't exist
+A bad cross reference---entry "icmlp71"
+refers to entry "DBLP:conf/icml/2017", which doesn't exist
+A bad cross reference---entry "cvprp81"
+refers to entry "DBLP:conf/cvpr/2018", which doesn't exist
+A bad cross reference---entry "iccvp71"
+refers to entry "DBLP:conf/iccv/2017", which doesn't exist
+A bad cross reference---entry "eccvq87"
+refers to entry "DBLP:conf/eccv/2018-8", which doesn't exist
+Warning--I didn't find a database entry for "iclrp82"
+Warning--I didn't find a database entry for "DBLP:conf/nips/2012"
+Warning--I didn't find a database entry for "DBLP:conf/icml/2017"
+Warning--I didn't find a database entry for "DBLP:conf/iccv/2017"
+Warning--I didn't find a database entry for "DBLP:conf/nips/2017"
+Warning--I didn't find a database entry for "DBLP:conf/iclr/2018"
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/2018"
+Warning--I didn't find a database entry for "DBLP:conf/eccv/2018-13"
+Warning--I didn't find a database entry for "DBLP:conf/eccv/2018-7"
+Warning--I didn't find a database entry for "DBLP:conf/eccv/2018-4"
+Warning--I didn't find a database entry for "DBLP:conf/eccv/2018-8"
+Warning--I didn't find a database entry for "DBLP:conf/icml/2018"
+Warning--I didn't find a database entry for "DBLP:conf/iclr/2018w"
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/2017"
+Warning--empty journal in 2014low
+Warning--empty journal in relu
+Warning--empty journal in 2011domain
+Warning--empty journal in hanson1988
+Warning--empty journal in 92prune
+Warning--empty journal in cifar
+Warning--empty journal in 2012imagenet
+Warning--empty journal in 90prune
+Warning--empty journal in icasspq71
+Warning--empty journal in iclrp81
+Warning--empty pages in iclrq82
+Warning--empty pages in icmlq83
+Warning--empty pages in iclrq81
+Warning--empty journal in 28
+(There were 28 error messages)

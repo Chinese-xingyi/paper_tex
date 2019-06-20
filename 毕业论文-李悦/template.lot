@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces 普通CNN量化实验结果对比（基于MNIST数据集）\relax }}{23}{table.caption.12}
+\contentsline {table}{\numberline {3.2}{\ignorespaces AlexNet和VGG19量化实验结果对比（基于CIFAR10数据集）\relax }}{23}{table.caption.13}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces AlexNet量化结果的对比（基于Fashion-MNIST数据集）\relax }}{33}{table.caption.16}
+\contentsline {table}{\numberline {4.2}{\ignorespaces AlexNet和VGGNet量化结果的对比（基于SVHN数据集）\relax }}{33}{table.caption.17}
+\contentsline {table}{\numberline {4.3}{\ignorespaces AlexNet和VGGNet量化结果的对比（基于CIFAR10数据集）\relax }}{34}{table.caption.18}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces 经典剪枝算法改进前后的效果对比（基于MNIST数据集和CNN模型）\relax }}{49}{table.caption.23}
+\contentsline {table}{\numberline {5.2}{\ignorespaces 经典剪枝算法改进前后的效果对比（基于CIFAR10数据集和VGG16）\relax }}{50}{table.caption.24}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Soft剪枝算法改进前后效果对比（基于CIFAR10数据集和ResNet-110模型）\relax }}{51}{table.caption.25}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

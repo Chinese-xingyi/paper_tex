@@ -1,0 +1,150 @@
+\relax 
+\citation{b1}
+\citation{b2}
+\citation{b3}
+\citation{b4}
+\citation{b5}
+\citation{b6}
+\citation{b7}
+\citation{b8}
+\citation{b9}
+\citation{b11}
+\citation{b27}
+\citation{b28}
+\citation{b30}
+\citation{b23}
+\citation{b9}
+\citation{b9}
+\citation{b10}
+\@writefile{toc}{\contentsline {title}{A Novel Thought of Pruning Algorithms: Pruning Based on Less Training\unskip {}}{1}}
+\@writefile{toc}{\authcount {3}}
+\@writefile{toc}{\contentsline {author}{Yue Li \and Weibin Zhao \and Lin Shang{\fontencoding  {U}\fontfamily  {ding}\selectfont  \char '014\relax }}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\citation{b19}
+\citation{b20}
+\citation{b21}
+\citation{b22}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces This picture shows the convolution process of two convolution layers. The convolution network's input is an RGB image. In this picture, each cube in the graph corresponds to a filter. There are five filters in the first layer, so there are five output feature maps in the first layer. We use the same color to show the corresponding relationship between filters and output feature graphs. Notice the first filter in the first layer, which consists of three blocks. In convolution operation, each block corresponds to one input feature map.}}{2}}
+\newlabel{fig:convolution_operation}{{1}{2}}
+\citation{b35}
+\citation{b27}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces In this picture, the general flow of the traditional pruning algorithm is on the left, and the general flow of \textbf  {IPLT} is on the right. It is not difficult to find that the biggest feature of \textbf  {IPLT} is: first pruning, then training. \textbf  {IPLT} only trains few epochs to prune the model, and in the training phase of the model, a lot of computing resources will be reduced.}}{3}}
+\newlabel{fig:pruning_contrast}{{2}{3}}
+\citation{b15}
+\citation{b23}
+\citation{b12}
+\citation{b16}
+\citation{b9}
+\citation{b10}
+\citation{b9}
+\citation{b14}
+\citation{b11}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Works}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Weights Pruning}{4}}
+\citation{b17}
+\citation{b18}
+\citation{b21}
+\citation{b28}
+\citation{b29}
+\citation{b27}
+\citation{b12}
+\citation{b13}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Filters Pruning}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Methodology}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Preliminaries}{5}}
+\newlabel{AA}{{3.1}{5}}
+\newlabel{equ.1}{{1}{5}}
+\newlabel{equ.2}{{2}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}How to Select Filters}{6}}
+\newlabel{norm}{{3}{6}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Pruning algorithms modified by \textbf  {IPLT}}}{6}}
+\newlabel{alg:global}{{1}{6}}
+\newlabel{code:fram:extract}{{2}{6}}
+\newlabel{code:fram:trainbase}{{3}{6}}
+\newlabel{code:fram:add}{{4}{6}}
+\newlabel{code:fram:classify}{{5}{6}}
+\newlabel{code:fram:select}{{6}{6}}
+\newlabel{code:fram:classify}{{9}{6}}
+\newlabel{code:fram:add}{{10}{6}}
+\newlabel{code:fram:select}{{10}{6}}
+\citation{b24}
+\citation{b25}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}The thought of incremental pruning}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Details of Pruning Filters}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces This picture shows that when we prune filters of one convolution layer, the next layer needs to make some adjustments at the same time. In this picture, each colourful cuboid represent one filter. We pruned the second and third filters in the $i-th$ layer(white), so the second and third output feature maps of $i-th$ layer are also pruned. Obviously, the number of input feature maps of $(i+1)-th$ layer is reduced. The four filters in $(i+1)-th$ Layer needn't to consider the second and fourth pruned feature maps. The number of filters in $(i+1)-th$ layer is still four, but the size of each filter should be modified to $\frac  {2}{3}$ of the original (the white part in four blue filters should be pruned also).}}{7}}
+\newlabel{fig:filters_pruning}{{3}{7}}
+\citation{b2}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experiments}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Benchmark Datasets and Experimental Setting}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Contrast Experiments About \cite  {b35}}{8}}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b35}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Pruning a CNN on MNIST. "baseline" means the the model with no pruning. "original\_pruning" is the original pruning algorithm in \cite  {b35}. "modified\_pruning" is the original pruning algorithm modified by \textbf  {IPLT}. "$FPR_{all}$" represent the percentage of all filters in the model that have been pruned. "$PPR_{all}$" represent the percentage of all parameters that have been pruned.}}{9}}
+\newlabel{mnist}{{1}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Contrast Experiments About \cite  {b27}}{9}}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\citation{b27}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Pruning VGG-16 on CIFAR-10. "original baseline" is the complete model trained by \cite  {b35}. "our\_baseline" is the complete model trained by ourselves. "original\_pruning" is the pruning result of original pruning algorithm in \cite  {b35}. "modified\_pruning" is the original pruning algorithm modified by \textbf  {IPLT}. "$FPR_{all}$" represent the percentage of all filters in the model that have been pruned. "FLOPs" refers to the total number of floating-point calculations that the model needs to do when processing a picture. "Pruned FLOPs" refers to how much computation can be saved by the pruned model compared with the original model.}}{10}}
+\newlabel{analysis1}{{2}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Uniqueness of \textbf  {IPLT}}{10}}
+\citation{b35}
+\citation{b27}
+\bibcite{b1}{1}
+\bibcite{b2}{2}
+\bibcite{b3}{3}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Pruning ResNet-110 on CIFAR-10. "paper's baseline" is the complete model trained by \cite  {b27}. "our\_baseline" is the complete model trained by ourselves. "original in paper" is the pruning result of original pruning algorithm in \cite  {b27}. "our original" is the pruning result of our codes which implement the original pruning algorithm in \cite  {b27}. "our modified" is the original pruning algorithm modified by \textbf  {IPLT}. Other words have the same meanings as shown in Table.2\hbox {}}}{11}}
+\newlabel{analysis2}{{3}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusion}{11}}
+\bibcite{b4}{4}
+\bibcite{b5}{5}
+\bibcite{b6}{6}
+\bibcite{b7}{7}
+\bibcite{b8}{8}
+\bibcite{b9}{9}
+\bibcite{b10}{10}
+\bibcite{b11}{11}
+\bibcite{b12}{12}
+\bibcite{b13}{13}
+\bibcite{b14}{14}
+\bibcite{b15}{15}
+\bibcite{b16}{16}
+\bibcite{b17}{17}
+\bibcite{b18}{18}
+\bibcite{b19}{19}
+\bibcite{b20}{20}
+\bibcite{b21}{21}
+\bibcite{b22}{22}
+\bibcite{b23}{23}
+\bibcite{b24}{24}
+\bibcite{b25}{25}
+\bibcite{b26}{26}
+\bibcite{b27}{27}
+\bibcite{b28}{28}
+\bibcite{b29}{29}
+\bibcite{b30}{30}
+\bibcite{b31}{31}
+\bibcite{b32}{32}
+\bibcite{b33}{33}
+\bibcite{b34}{34}
+\bibcite{b35}{35}
